@@ -65,12 +65,13 @@
 
 .btn-sign1{
     padding: 5px 13px;
-    background:  #25DAC5;
-    color: #ffffff;
+    background:  #25DAC5 !important;
+    color: #ffffff !important;
     border-radius: 100px;
     font-family: 'DM+Sans' , sans-serif;
     font-weight: 500;
     border: none;
+    box-shadow: none !important;
 }
 
 .mara{
@@ -260,7 +261,7 @@
 
     border-radius: 100px;
     padding: 20px; 
-    width: 72%;
+    width: 75%;
 }
 
 .runIt{
@@ -275,7 +276,7 @@
     border-radius: 100px;
     border: none;
     padding: 9px 20px;
-    width: 72%;
+    width: 75%;
 }
 
 
@@ -291,7 +292,7 @@
 
 .signup-text p{
     color: var(--colors-text, rgba(21, 20, 57, 0.40));
-    margin-left: 50px;
+    margin-left: 20px;
 }
 
 .side-section1{
@@ -330,7 +331,7 @@ h4 a{
 .contents17{
     min-height: 60vh;   
     width: 100%;
-    background-image: linear-gradient(rgba(24, 3, 69, 0.849),rgba(22, 4, 101, 0.709)),url(images/Image.png);
+    background-image: linear-gradient(rgba(63, 7, 183, 0.826),rgba(12, 2, 57, 0.709)),url(images/Image.png);
     background-size: cover;
     background-position: center;
     
@@ -502,7 +503,7 @@ h4 a{
 
 /* Header 5 styling starts here  */
 
-.btn-sign1{
+.btn-sign2{
     padding: 5px 13px;
     background:none;
     color: #1E0E62;
