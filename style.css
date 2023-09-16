@@ -331,7 +331,7 @@ h4 a{
 .contents17{
     min-height: 60vh;   
     width: 100%;
-    background-image: linear-gradient(rgba(26, 2, 76, 0.826),rgba(12, 2, 57, 0.9)),url(images/Image.png);
+    background-image: linear-gradient(rgba(25, 2, 76, 0.858),rgba(25, 2, 76, 0.904)),url(images/Image.png);
     background-size: cover;
     background-position: center;
     
